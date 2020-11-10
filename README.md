@@ -1,7 +1,7 @@
 # Water-Table-Depth-Prediction-Pytorch
 
 ### Introduction
-This is a PyTorch implementation of my Hydrological Modeling course project at IIIT-Hyderabad *Developing a Long Short-Term Memory (LSTM) based Model for Predicting Water Table Depth in Agricultural Areas*.
+This is a PyTorch implementation of my Hydrological Modeling course project at IIIT-Hyderabad, i.e., *Developing a Long Short-Term Memory (LSTM) based Model for Predicting Water Table Depth in Agricultural Areas*.
 
 ### Requirements
 ```

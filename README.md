@@ -22,7 +22,6 @@ The code was tested with Python 3.5. To use this code, please do:
     For pytorch installation, please see in [PyTorch.org](https://pytorch.org/).
   
 
-    ```
 
 If installed and run correctly, the result should look like this:
 ![results](results.png)
